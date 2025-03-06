@@ -165,3 +165,5 @@ job:
     repo: kusionstack/karpor
     # -- Tag for Karpor image. Defaults to the chart's appVersion if not specified.
     tag: ""
+ingress:
+  enabled: true
